@@ -1,0 +1,6 @@
+name: LifeSkills
+version: '${version}'
+main: me.pan1st.lifeskills.LifeSkills
+api-version: 1.18
+authors: [ bread ]
+description: RPG Life Skills System
